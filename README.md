@@ -4,7 +4,7 @@
 * [Setup](#setup)
 
 ## General info
-This is a nodejs using express js framework, graphql and postgresql, to utilize CRUD operations.
+This is a nodejs project using express js framework, graphql and postgresql, to utilize CRUD operations.
 	
 ## Technologies
 Project is created with:
